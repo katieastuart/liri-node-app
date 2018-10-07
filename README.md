@@ -4,7 +4,7 @@
 
 <p>All results are logged to the log.txt file.</p>
 
-<p>Watch <a href="https://drive.google.com/file/d/1XMN9UjhOa4vBJNmNmW2veqr8Pva6dSl-/view">this</a> recording to view the application functionality.</p>
+<p>Watch <a target="_blank" href="https://drive.google.com/file/d/1XMN9UjhOa4vBJNmNmW2veqr8Pva6dSl-/view">this</a> recording to view the application functionality.</p>
 
 <p>The following are the available search functions:</p>
 
